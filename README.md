@@ -14,7 +14,7 @@ a simple and intuitive link shortener API. :D
 ### `GET *`
 default catch-all route.
 
-- **response** (`404`):
+- **response** (`404`):  
   ```json
   {
     "error": "Page not found"
